@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\K22CNTT3\\K22CNT3_PHAMCONGHIEU_PROJECT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C81FE2C6-D619-4D1E-9E77-263416180C20}|K22CNT3_PHAMCONGHIEU_PROJECT2\\K22CNT3_PHAMCONGHIEU_PROJECT2.csproj|c:\\k22cntt3\\k22cnt3_phamconghieu_project2\\k22cnt3_phamconghieu_project2\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C81FE2C6-D619-4D1E-9E77-263416180C20}|K22CNT3_PHAMCONGHIEU_PROJECT2\\K22CNT3_PHAMCONGHIEU_PROJECT2.csproj|solutionrelative:k22cnt3_phamconghieu_project2\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\K22CNTT3\\K22CNT3_PHAMCONGHIEU_PROJECT2\\K22CNT3_PHAMCONGHIEU_PROJECT2\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "K22CNT3_PHAMCONGHIEU_PROJECT2\\Models\\Model1.edmx",
+              "ToolTip": "C:\\K22CNTT3\\K22CNT3_PHAMCONGHIEU_PROJECT2\\K22CNT3_PHAMCONGHIEU_PROJECT2\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "K22CNT3_PHAMCONGHIEU_PROJECT2\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-03T15:56:17.967Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
